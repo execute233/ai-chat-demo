@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run:*)",
+      "Bash(mkdir ai-chat-web:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
